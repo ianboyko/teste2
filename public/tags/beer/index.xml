@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beer on Cupper</title>
+    <link>https://example.com/tags/beer/</link>
+    <description>Recent content in beer on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://example.com/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bottled</title>
+      <link>https://example.com/bottled/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://example.com/bottled/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/42
+Line 1 Line 2 Line 3  </description>
+    </item>
+    
+    <item>
+      <title>Draught</title>
+      <link>https://example.com/draught/</link>
+      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      
+      <guid>https://example.com/draught/</guid>
+      <description>Wheat Ales               Kronenbourg BlancFrance, 7 IBU, 5.0% 25cl 5.25 50cl 8.50   HoegaardenBelgium, 15 IBU, 4.9% n/a 50cl 9.00   Erdinger WeissGermany, 13 IBU, 5.6% 30cl 6.25 50cl 10.00       Blonde Ales      crisp, smooth, balanced
+ La Chouffe Blonde SOLD OUT
+Belgium, 20 IBU, 8.</description>
+    </item>
+    
+  </channel>
+</rss>
